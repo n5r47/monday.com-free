@@ -1,7 +1,7 @@
 # Google Sheets-Based Work OS - A Free Alternative for monday.com
 
 ## Hi!
-I'm a content creator with a love for tech, and I've crafted a Google Sheets-based Work OS that's inspired by monday.com but friendly for the bootstrap startup. It's reasonably user-friendly, budget-friendly, and just has enough function to keep the ball rolling!
+I'm a content creator with a love for tech, and I made a Google Sheets-based Work OS that's inspired by monday.com but friendly for the bootstrap startup. It's reasonably user-friendly, budget-friendly, and just has enough function to keep the ball rolling!
 
 ## Getting Started with the Work OS Template
 To make setting up your Google Sheets-based Work OS even easier, we've provided a ready-to-use Excel template named "Work OS Template". This template mirrors the structure required for the scripts to function correctly.
