@@ -1,4 +1,4 @@
-# Google Sheets-Based Work OS - A Creative Take on monday.com
+# Google Sheets-Based Work OS - A Free Alternative for monday.com
 
 ## Hi!
 I'm a content creator with a love for tech, and I've crafted a Google Sheets-based Work OS that's inspired by monday.com but friendly for the bootstrap startup. It's reasonably user-friendly, budget-friendly, and just has enough function to keep the ball rolling!
